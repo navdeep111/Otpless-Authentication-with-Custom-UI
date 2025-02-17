@@ -10,7 +10,7 @@ const loadScript = () => {
 	script.type = 'text/javascript'
 	script.src = 'https://otpless.com/v2/headless.js'
 	// Get your app id from https://otpless.com/dashboard/customer/dev-settings
-	script.setAttribute('data-appid', '1KD7V97BB0MI5ULYLUDQ')
+	script.setAttribute('data-appid', 'MHRI5KGCPJ2IA4PQOAEC')
 	// TODO: Add your app id				^here
 	document.head.appendChild(script)
 }
